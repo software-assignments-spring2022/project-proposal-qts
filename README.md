@@ -1,9 +1,9 @@
 # Project Proposal
 
 ## Collaboration
-Patricio Domit
-Jinju Lima
-Sreeya Narra
+Patricio Domit,
+Jinju Lima,
+Sreeya Narra,
 Yoga Keshnen Yogaindran
 
 ### Project title
